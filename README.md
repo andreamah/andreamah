@@ -1,10 +1,27 @@
-# What's up? 👋 
-Thanks for visiting my GitHub profile! Here's a small blurb about me. 😄
+# Hi there! 😺👋 
+[![linkedin badge](https://img.shields.io/badge/Andrea-Mah?color=blue&&logo=linkedin)](https://www.linkedin.com/in/andrea-mah)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=andreamah.visitor-badge)
 
-I formerly interned at Microsoft within the **Garage Internship** and **Xbox Game Studios**. Check out **[Device Simulator Express](https://github.com/microsoft/vscode-python-devicesimulator)**, my Garage Internship project! It's a handy dandy tool for simulating microcontrollers. 💡📲💼 
+```json
+{
+    "pronouns": "she/her",
+    "currently": "@vscode",
+    "previously": [
+        "@xbox-game-studios",
+        "@msft-garage", 
+        "@intel"
+    ],
+    "education": "UBC Computer Eng, '22",
+    "location": "Vancouver, Canada"
+}
+```
+----
+### Check Out 
+💻📝 **[Live Preview](https://github.com/microsoft/vscode-livepreview)** | Host a Server for a Live-Refreshing Web Dev Preview
 
-I'm currently studying **Computer Engineering** at the **University of British Columbia**. Take a look at this [cool computer vision-based license plate identifier](https://github.com/andreamah/License-Plate-Identifier) that I'm making for a project course! 👀 
+💡👩🏽‍💻 **[Device Simulator Express](https://github.com/microsoft/vscode-python-devicesimulator)** | Simulate Microcontrollers on the Go
 
-I like strumming my ukelele and playing Animal Crossing. 🎸🎧🎮 I'm also an advocate for **Girls in STEM**, **Widespread STEM Literacy**, and **Accessibility in Gaming** (to name a few)! Also passionate about learning new things about software development ~~even if it creates an onslaught of failure and getting back up again~~. 😅
+🔎🚗 **[SmartMetr License Plate Identifier](https://github.com/rmcreyes/cpen391-de1/tree/main/python)** | A Smart Parking Meter's CV-based License Plate Reader
 
-Thanks for visiting my profile! Catch me on **[LinkedIn](https://www.linkedin.com/in/andrea-mah/)** for more info about my professional experience. 😁
+---
+<div><img align="center" src="https://github-readme-stats.vercel.app/api?username=andreamah&count_private=true&show_icons=true&theme=dracula&custom_title=Andrea's GitHub Stats" /></div>
