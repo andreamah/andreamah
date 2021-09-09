@@ -5,8 +5,8 @@
 ```json
 {
     "pronouns": "she/her",
-    "currently": "@vscode",
-    "previously": [
+    "previous_internships": [
+        "@vscode",
         "@xbox-game-studios",
         "@msft-garage", 
         "@intel"
